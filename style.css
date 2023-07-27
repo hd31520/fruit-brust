@@ -1,0 +1,30 @@
+#slide1{
+    padding: 8px;
+    background-image: url(images/banner1.png);
+   
+}
+#slide2{
+    padding: 8px;
+    background-image: url(images/banner2.png);
+}
+#slide3{
+    padding: 8px;
+    background-image: url(images/banner3.png);
+}
+#slide4{
+    padding: 8px;
+    background-image: url(images/banner4.png);
+}
+#team-member{
+  background-image: url(images/team.png);  
+}
+hr { 
+    display: block;
+    width: 50%;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+  }
