@@ -1,22 +1,30 @@
 #slide1{
     padding: 8px;
     background-image: url(images/banner1.png);
+    background-repeat: no-repeat;
    
 }
 #slide2{
     padding: 8px;
     background-image: url(images/banner2.png);
+    background-repeat: no-repeat;
 }
 #slide3{
     padding: 8px;
     background-image: url(images/banner3.png);
+    background-repeat: no-repeat;
 }
 #slide4{
     padding: 8px;
     background-image: url(images/banner4.png);
+    background-repeat: no-repeat;
 }
 #team-member{
   background-image: url(images/team.png);  
+  border-radius: 8px;
+    
+ 
+  /* color: #12121280; */
 }
 hr { 
     display: block;
@@ -27,4 +35,5 @@ hr {
     margin-right: auto;
     border-style: inset;
     border-width: 1px;
+   
   }
